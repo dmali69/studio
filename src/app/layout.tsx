@@ -5,7 +5,7 @@ import Navbar from '@/components/shared/navbar';
 import Footer from '@/components/shared/footer';
 
 export const metadata: Metadata = {
-  title: 'MovieSuggest',
+  title: 'Sukanya',
   description: 'Personalized movie recommendations just for you.',
 };
 

@@ -2,7 +2,7 @@ import RecommendationForm from '@/components/recommendations/recommendation-form
 import { Sparkles } from 'lucide-react';
 
 export const metadata = {
-  title: 'Personalized Recommendations | MovieSuggest',
+  title: 'Personalized Recommendations | Sukanya',
   description: 'Get movie recommendations tailored to your taste.',
 };
 
