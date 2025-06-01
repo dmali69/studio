@@ -25,7 +25,7 @@ export const MOVIES: Movie[] = [
   },
   {
     id: '2',
-    title: 'Laugh Riot',
+    title: 'Laugh Riot', 
     year: 2023,
     genres: ['Comedy'],
     summary: 'An unexpected series of hilarious mishaps befalls a group of friends on a weekend getaway.',
