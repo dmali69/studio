@@ -48,7 +48,7 @@ export default function Navbar() {
       <div className="container flex h-16 items-center justify-between">
         <Link href="/" className="flex items-center gap-2 text-2xl font-glitch font-bold text-accent">
           <Film className="h-7 w-7" />
-          Sukanya
+          MovieCulture
         </Link>
 
         {pathname === '/' && (
